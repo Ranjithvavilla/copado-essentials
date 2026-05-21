@@ -72,6 +72,7 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <externalSharingModel>ControlledByParent</externalSharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
     <fields>
         <fullName>AdjustmentAmountScope</fullName>
     </fields>
@@ -125,5 +126,4 @@
         <fullName>WebCartAdjustmentGroupId</fullName>
         <type>Lookup</type>
     </fields>
-    <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>
